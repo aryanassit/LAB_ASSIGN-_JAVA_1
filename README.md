@@ -87,3 +87,6 @@ Run the program:
 
 java StudentRecordSystem
 
+
+<img width="927" height="628" alt="image" src="https://github.com/user-attachments/assets/929fe034-55a7-459f-b052-b42fd01aeb6b" />
+
