@@ -1,5 +1,4 @@
 # LAB_ASSIGN-_JAVA_1
-assignment 1
 
 📘 Student Record System – README
 📌 Overview
